@@ -1,0 +1,13 @@
+html, .container , body{
+    background-color: cornflowerblue;
+}
+
+.bloccoNumero{
+    width: calc((100% / 10) - 6px);
+    aspect-ratio: 1/1;
+    margin: 3px;
+    background-color: darkcyan;
+    border: 1px solid lightskyblue;
+    text-align: center;
+
+}
